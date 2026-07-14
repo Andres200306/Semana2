@@ -1,0 +1,8 @@
+Saber usar la terminal facilita la navegación entre carpetas y archivos.
+Permite encontrar información y organizar un proyecto de forma más rápida.
+También ayuda a evitar errores al trabajar con muchos documentos.
+Un desarrollador puede crear, mover y eliminar archivos con mayor precisión.
+La terminal mejora la productividad cuando se trabaja en equipos o con proyectos grandes.
+Además, muchos entornos de desarrollo dependen de comandos básicos para ejecutar tareas.
+Entender la terminal fortalece la autonomía al resolver problemas técnicos.
+Por eso, dominar estos comandos es una habilidad esencial para cualquier programador.
